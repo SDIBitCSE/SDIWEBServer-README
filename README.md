@@ -7,7 +7,7 @@ Work is on progress
 * Method: GET
 * University Seat Number (USN): All caps
 * password: your password (case sensitive)
-Base URL: [https://graph.resnal.ml:2019/api/](https://graph.resnal.ml:2019/api) always pass usn and token
+Base URL: [http://graph.resnal.ml:2019/api/](http://graph.resnal.ml:2019/api) always pass usn and token
 APIs:
 
   1. /timetable: It requires two header values. Header values are following:
